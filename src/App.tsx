@@ -5,9 +5,7 @@ import './tailwind.css'
 
 function App() {
   <>
-  hi thrtwenfpn3qp
-  
-  <Dashboard/>
+<Dashboard/>
   </>
 }
 
