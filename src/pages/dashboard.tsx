@@ -1,4 +1,4 @@
-import '../tailwind.css'
+
 import { Card } from '../components/Card';
 import {CreateContentModal}from '../components/createContentModal';
 import { useState } from "react";

@@ -1,12 +1,15 @@
-import { Dashboard } from "./pages/dashboard"
-import { SignUp } from "./pages/signup"
-import './tailwind.css'
-
+import './tailwind.css';
+import { SignUp } from './pages/signup';
+import { Dashboard } from './pages/dashboard';
 
 function App() {
-  <>
-<Dashboard/>
-  </>
+   return (
+    <div>
+      <SignUp></SignUp>
+    </div>
+  )
+
+  
 }
 
-export default App
+export default App;
